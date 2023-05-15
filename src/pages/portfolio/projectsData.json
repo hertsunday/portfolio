@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Add friends",
+    "image": "./projectImages/friends.png",
+    "technologies": "JS | CSS | HTML",
+    "description": "Friends Dashboard is a contact storage. Here you can add people's name, surname, birthday, phone number, email and even photo. The browser saves all this information. In any time you can come back and see it.",
+    "github": "https://github.com/hertsunday/Add-friend",
+    "deployed": "https://add-friend-daria.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "1"
+  }, {
+    "title": "Weather today",
+    "image": "./projectImages/weather.png",
+    "technologies": "JS | CSS | HTML | API",
+    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, status, temperature, sunrise and sunset.",
+    "github": "https://github.com/hertsunday/Weather-today",
+    "deployed": "https://weather-today-daria.vercel.app/",
+    "bgcolor": "#fa7837",
+    "id": "2"
+  }, {
+    "title": "Quiz",
+    "image": "./projectImages/quiz.png",
+    "technologies": "JS | CSS | HTML",
+    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end.",
+    "github": "https://github.com/hertsunday/JavaScript-Quiz",
+    "deployed": "https://quiz-daria.vercel.app/",
+    "bgcolor": "#f85781",
+    "id": "3"
+  }, {
+    "title": "Search movies",
+    "image": "./projectImages/movies.png",
+    "description": "This website allows users to search for and view information about their favorite movies. The movie data is powered by the OMDB API, which provides access to a database of over 500,000 movies and TV shows.",
+    "technologies": "JS | jQuery | API",
+    "github": "https://github.com/hertsunday/Search-movies",
+    "deployed": "https://search-movies-daria.vercel.app/",
+    "bgcolor": "#29cbe0",
+    "id": "4"
+  }
+]
